@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="clean" name="beethoven-edition-release">
+<project default="clean" name="beethoven-edirom-data">
     <property name="project.version" value="0.1"/>
-    <property name="project.app" value="beethoven-edition-release"/>
+    <property name="project.app" value="beethoven-edirom-data"/>
     <property name="build.dir" value="build"/>
     <property name="dist.dir" value="dist"/>
     <tstamp/>
@@ -20,7 +20,7 @@
 
     <target name="edition" depends="clean">
         
-        <property name="xar-name" value="beethoven-edition"/>
+        <property name="xar-name" value="beethoven-edirom-data"/>
         
         <mkdir dir="${build.dir}"/>
         <copy todir="${build.dir}/${xar-name}/" encoding="UTF-8" outputencoding="UTF-8">
