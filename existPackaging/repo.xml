@@ -1,0 +1,13 @@
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>@title@</description>
+    <author>@author@</author>
+    <website>@website@</website>
+    <status>alpha</status>
+    <license>All rights reserved</license>
+    <copyright>true</copyright>
+    <type>@type@</type>
+    <target>@target@</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>@date@</deployed>
+</meta>

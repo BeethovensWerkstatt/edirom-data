@@ -24,7 +24,7 @@
         
         <mkdir dir="${build.dir}"/>
         <copy todir="${build.dir}/${xar-name}/" encoding="UTF-8" outputencoding="UTF-8">
-            <fileset dir="op73" includes="**"/>
+            <fileset dir="op73/edition" includes="**"/>
             <file file="existPackaging/xconf/collection.xconf"/>
             <file file="existPackaging/repo.xml"/>
             <file file="existPackaging/expath-pkg.xml"/>
