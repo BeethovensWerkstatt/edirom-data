@@ -5,7 +5,7 @@
     </languages>
     <preferences xlink:href="xmldb:exist:///db/apps/beethoven-edirom-data/prefs.xml"/>
     <works>
-        <work xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477" sortNo="1" xlink:href="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml">
+        <work xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477" sortNo="1" xlink:href="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml">
             <navigatorDefinition>
                 
                 <navigatorCategory xml:id="navCategory-0" sortNo="0">
