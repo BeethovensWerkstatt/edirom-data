@@ -1,0 +1,55 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_a686cdc5-2209-4e1e-9b76-bacbb892ddda" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Fagotto Secondo</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_bda09388-1668-4209-9557-26273c4126ca" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_a686cdc5-2209-4e1e-9b76-bacbb892ddda/op.73_096.jpeg" xml:id="edirom_graphic_a70778ae-8f01-4521-8a50-97a6ecacd74f" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_44f562db-9cb4-4d97-b4b0-8120037c95b0" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_a686cdc5-2209-4e1e-9b76-bacbb892ddda/op.73_097.jpeg" xml:id="edirom_graphic_d98cc920-ec19-425e-ae85-2deaea881cf5" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_0aa3385f-26ab-4864-bacc-34931746649c" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_a686cdc5-2209-4e1e-9b76-bacbb892ddda/op.73_098.jpeg" xml:id="edirom_graphic_07358528-15a1-42d1-846e-b3c0fe879601" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_d36b67ac-2601-485b-b112-a8b1dbe7c0eb" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_0e60e75a-e72c-4055-b31b-c580d6bb357a" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_abd8da88-088b-42c4-bf60-4660fa66b19d" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

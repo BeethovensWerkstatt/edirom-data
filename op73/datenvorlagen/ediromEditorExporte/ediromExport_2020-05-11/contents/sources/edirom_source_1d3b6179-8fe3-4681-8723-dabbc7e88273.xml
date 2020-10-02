@@ -1,0 +1,55 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_1d3b6179-8fe3-4681-8723-dabbc7e88273" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Clarinetto Secondo in B</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_de9e619f-9727-4e2a-b1f4-25f0a48e57fa" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_1d3b6179-8fe3-4681-8723-dabbc7e88273/op.73_089.jpeg" xml:id="edirom_graphic_6ca98efe-4e50-4b4d-96be-f764aa333c7f" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_baa82f38-e410-4620-958e-a3027973318b" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_1d3b6179-8fe3-4681-8723-dabbc7e88273/op.73_090.jpeg" xml:id="edirom_graphic_06d89cf6-0965-49c1-b7f7-fdd4a0cab501" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_391dc626-5fb2-42b6-8f27-f93498712e83" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_1d3b6179-8fe3-4681-8723-dabbc7e88273/op.73_091.jpeg" xml:id="edirom_graphic_9d0706c2-29e0-49e4-89bd-39a34fb0e951" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_e4cbb4f1-a5e9-496e-a71d-071a1b675b53" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_c5310074-9b38-4472-97ce-bfdc3f17eabb" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_c0a11bb5-50d1-4234-95a5-5b9a7b616561" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

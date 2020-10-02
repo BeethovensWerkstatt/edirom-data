@@ -1,0 +1,67 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Violoncelli e Bassi</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_e843a4fe-e1f1-44fa-ab16-26e0c4ba939a" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_066.jpeg" xml:id="edirom_graphic_a6d94c7a-c910-405a-9b94-45a1fc0d55df" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_50854871-a87c-45ac-8e3f-7a1118e45cc7" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_067.jpeg" xml:id="edirom_graphic_9b39adc1-f4df-49a6-bcd4-be92c0aacff0" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_99beead5-e0e2-4c3d-9628-c538884a50c1" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_068.jpeg" xml:id="edirom_graphic_964b7763-a189-4ec3-9530-c2fa2385af61" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_fd7a7d2d-5978-436a-a8c4-d8068bed8c3d" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_069.jpeg" xml:id="edirom_graphic_becfec3c-8cfc-4dbc-a5e1-e9916f1081bb" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_2a6a8786-d1a2-437e-9393-75ad5c8fc1ba" n="5">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_070.jpeg" xml:id="edirom_graphic_f64269f9-4c72-43a2-9e39-d6a3c28a72af" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_527bf6d1-3bd7-4c7d-98d0-3ea3f019d9df" n="6">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_071.jpeg" xml:id="edirom_graphic_890fde32-8a3e-459b-8614-3239c48303b0" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_f51b797e-3678-426f-99ca-a37207ff308f" n="7">
+                <graphic target="edition-beethoven-modul3/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399/op.73_072.jpeg" xml:id="edirom_graphic_a9dd35b4-b2f9-4933-8213-9976dc9633dd" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_31b0effd-c529-4594-9708-9813a6ab354f" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_f8266a2c-28fb-45cc-bae8-42525a5c0c03" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_f25ea44b-25c6-40fd-a665-88c4b867f107" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

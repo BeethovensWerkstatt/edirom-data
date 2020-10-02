@@ -1,0 +1,64 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Violino Secondo</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_4f8e0189-17e7-42e0-95d5-4bafb2e4e6b8" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_052.jpeg" xml:id="edirom_graphic_a67199a5-8e31-4348-b04e-f7ff54add75c" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_6051d6d1-b601-4f11-a3e2-dbd9b51e1685" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_053.jpeg" xml:id="edirom_graphic_c6897fdb-34e3-4e0a-8eee-468e12a17d47" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_dbfe62f7-8837-403f-834a-d0ae94642d0a" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_054.jpeg" xml:id="edirom_graphic_aa7c3f9f-0fc4-40a8-86bd-042ef40391db" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_edd4d406-757e-4602-966e-d990002288fa" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_055.jpeg" xml:id="edirom_graphic_a84e115a-48b2-4267-b4b2-9329d54ef0b2" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_9f0cf40d-1c00-413f-b8ef-dba16c546988" n="5">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_056.jpeg" xml:id="edirom_graphic_29ecb479-1367-491e-8d28-ba3c14413424" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_ff1a5f3e-17bc-4d25-96cd-cb3d9e290ff9" n="6">
+                <graphic target="edition-beethoven-modul3/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d/op.73_057.jpeg" xml:id="edirom_graphic_f271baed-c223-4e56-a93b-0185a2f949e1" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_4631d955-3217-420b-801f-e195905a4652" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_46ab54f1-4c63-455b-86a0-bbd2a2562817" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_6e7c8af3-6d7d-43cd-a8f3-2071aa5a7e60" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

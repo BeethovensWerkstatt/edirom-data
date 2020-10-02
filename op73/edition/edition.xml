@@ -1,0 +1,714 @@
+<edition xmlns="http://www.edirom.de/ns/1.3" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edition-beethoven-modul3">
+    <editionName>beethoven-modul3</editionName>
+    <languages>
+        <language xml:lang="de" complete="true"/><!--<language xml:lang="{$defaultLang}" complete="true" xlink:href="xmldb:exist:///db/contents/lang.xml"/>-->
+    </languages>
+    <preferences xlink:href="xmldb:exist:///db/apps/beethoven-edirom-data/prefs.xml"/>
+    <works>
+        <work xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477" sortNo="1" xlink:href="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml">
+            <navigatorDefinition>
+                
+                <navigatorCategory xml:id="navCategory-0" sortNo="0">
+                    <names>
+                        <name>Werk</name>
+                    </names>
+                    <navigatorItem xml:id="navItem-0" sortNo="1" targets="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml">
+                        <names>
+                            <name>5. Klavierkonzert</name>
+                        </names>
+                    </navigatorItem>
+                </navigatorCategory>
+                
+                
+                <navigatorCategory xml:id="navCategory-1" sortNo="1">
+                    <names>
+                        <name>Quellen von op. 73</name>
+                    </names>
+                    
+                    
+                    <navigatorCategory xml:id="xbf8ac954-31f7-4202-9268-d30c7f947245" sortNo="2">
+                        <names>
+                            <name>OA A-Wn SH.Beethoven.323 post correcturam</name>
+                        </names>
+                        <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/contents/sources/edirom_source_fe2c6f98-433b-4d52-a4de-543849e9f02f.xml">
+                            <names>
+                                <name>Pianoforte</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-2" sortNo="2" targets="xmldb:exist:///db/contents/sources/edirom_source_b3ffb1f8-1116-4406-a3f8-f2b9405659cb.xml">
+                            <names>
+                                <name>Violino Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-3" sortNo="3" targets="xmldb:exist:///db/contents/sources/edirom_source_3ef9757b-1219-4fbf-b806-29ef5c185a4e.xml">
+                            <names>
+                                <name>Violino Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-4" sortNo="4" targets="xmldb:exist:///db/contents/sources/edirom_source_e17bc4b8-ec1d-4617-95ab-2b60ef18822f.xml">
+                            <names>
+                                <name>Viole</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-5" sortNo="5" targets="xmldb:exist:///db/contents/sources/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0.xml">
+                            <names>
+                                <name>Violoncelli e Bassi</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-6" sortNo="6" targets="xmldb:exist:///db/contents/sources/edirom_source_d8ed1cae-fafc-412f-ac96-60958ed3895d.xml">
+                            <names>
+                                <name>Flauto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-7" sortNo="7" targets="xmldb:exist:///db/contents/sources/edirom_source_3054b600-8ed8-4466-b86d-e536b06998de.xml">
+                            <names>
+                                <name>Flauto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-8" sortNo="8" targets="xmldb:exist:///db/contents/sources/edirom_source_43e86eef-325d-4a41-adb6-c6eb4b78156b.xml">
+                            <names>
+                                <name>Oboe Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-9" sortNo="9" targets="xmldb:exist:///db/contents/sources/edirom_source_7413f651-ff73-457f-83ab-29c5b1fc89b3.xml">
+                            <names>
+                                <name>Oboe Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-10" sortNo="10" targets="xmldb:exist:///db/contents/sources/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5.xml">
+                            <names>
+                                <name>Clarinetto Primo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-11" sortNo="11" targets="xmldb:exist:///db/contents/sources/edirom_source_4a7fd666-292e-4b2a-81c1-368518340cae.xml">
+                            <names>
+                                <name>Clarinetto Secondo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-12" sortNo="12" targets="xmldb:exist:///db/contents/sources/edirom_source_ab4daa9a-4a36-4623-9509-61615c9208c0.xml">
+                            <names>
+                                <name>Fagotto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-13" sortNo="13" targets="xmldb:exist:///db/contents/sources/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51.xml">
+                            <names>
+                                <name>Fagotto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-14" sortNo="14" targets="xmldb:exist:///db/contents/sources/edirom_source_76b86ada-6d2c-4a0c-9174-24aaab94ad31.xml">
+                            <names>
+                                <name>Corno Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-15" sortNo="15" targets="xmldb:exist:///db/contents/sources/edirom_source_d173588d-7a27-48db-82f5-886728206261.xml">
+                            <names>
+                                <name>Corno Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-16" sortNo="16" targets="xmldb:exist:///db/contents/sources/edirom_source_9c0e4e5c-828c-4978-9e9d-4281362991ea.xml">
+                            <names>
+                                <name>Clarino Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-17" sortNo="17" targets="xmldb:exist:///db/contents/sources/edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3.xml">
+                            <names>
+                                <name>Clarino Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-18" sortNo="18" targets="xmldb:exist:///db/contents/sources/edirom_source_abbcc968-b746-4196-b777-550d0c90ad6c.xml">
+                            <names>
+                                <name>Timpani</name>
+                            </names>
+                        </navigatorItem>
+                    </navigatorCategory>
+                    
+                    <navigatorCategory xml:id="x6bfbfb86-24b5-4ee0-910e-3ec2819bff7f" sortNo="1">
+                        <names>
+                            <name>OA BNba C 73/9 ante correcturam</name>
+                        </names>
+                        <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/contents/sources/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76.xml">
+                            <names>
+                                <name>Pianoforte</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-2" sortNo="2" targets="xmldb:exist:///db/contents/sources/edirom_source_90539f49-dbba-48f2-82a7-0ec8de24f874.xml">
+                            <names>
+                                <name>Violino Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-3" sortNo="3" targets="xmldb:exist:///db/contents/sources/edirom_source_144b46e3-6641-4e2f-942c-a989af3f523d.xml">
+                            <names>
+                                <name>Violino Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-4" sortNo="4" targets="xmldb:exist:///db/contents/sources/edirom_source_898f68d5-f937-4bd7-8fd0-48e881cffbc4.xml">
+                            <names>
+                                <name>Viole</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-5" sortNo="5" targets="xmldb:exist:///db/contents/sources/edirom_source_68d48c13-b198-4ccc-87e2-0aa99fe1e399.xml">
+                            <names>
+                                <name>Violoncelli e Bassi</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-6" sortNo="6" targets="xmldb:exist:///db/contents/sources/edirom_source_8bc1ba59-9d83-4078-8efa-4fb042b0b568.xml">
+                            <names>
+                                <name>Flauto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-7" sortNo="7" targets="xmldb:exist:///db/contents/sources/edirom_source_8efe17b9-7a7d-4ff8-8f18-14fa2ec6a054.xml">
+                            <names>
+                                <name>Flauto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-8" sortNo="8" targets="xmldb:exist:///db/contents/sources/edirom_source_06e761ce-002e-4c91-9bf3-70677041a694.xml">
+                            <names>
+                                <name>Oboe Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-9" sortNo="9" targets="xmldb:exist:///db/contents/sources/edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e.xml">
+                            <names>
+                                <name>Oboe Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-10" sortNo="10" targets="xmldb:exist:///db/contents/sources/edirom_source_8358eec3-a814-4e83-9c2e-0b970d231c51.xml">
+                            <names>
+                                <name>Clarinetto Primo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-11" sortNo="11" targets="xmldb:exist:///db/contents/sources/edirom_source_1d3b6179-8fe3-4681-8723-dabbc7e88273.xml">
+                            <names>
+                                <name>Clarinetto Secondo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-12" sortNo="12" targets="xmldb:exist:///db/contents/sources/edirom_source_2fe8d470-a020-45b0-b151-cf20677ddff1.xml">
+                            <names>
+                                <name>Fagotto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-13" sortNo="13" targets="xmldb:exist:///db/contents/sources/edirom_source_a686cdc5-2209-4e1e-9b76-bacbb892ddda.xml">
+                            <names>
+                                <name>Fagotto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-14" sortNo="14" targets="xmldb:exist:///db/contents/sources/edirom_source_3045f0cf-8892-4763-825c-e557a13e9973.xml">
+                            <names>
+                                <name>Corno Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-15" sortNo="15" targets="xmldb:exist:///db/contents/sources/edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3.xml">
+                            <names>
+                                <name>Corno Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-16" sortNo="16" targets="xmldb:exist:///db/contents/sources/edirom_source_741acd9d-ad1f-4b2a-9d26-ea3d8835c694.xml">
+                            <names>
+                                <name>Clarino Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-17" sortNo="17" targets="xmldb:exist:///db/contents/sources/edirom_source_aa955556-a3a9-40e4-871c-4ab39c9fe056.xml">
+                            <names>
+                                <name>Clarino Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-18" sortNo="18" targets="xmldb:exist:///db/contents/sources/edirom_source_82394183-8359-4790-969f-4e6e272f9bc8.xml">
+                            <names>
+                                <name>Timpani in Es</name>
+                            </names>
+                        </navigatorItem>
+                    </navigatorCategory>
+                    
+                    <navigatorItem xml:id="x2dc169cc-1e8c-49b7-8438-f8ece93c9025" sortNo="1" targets="xmldb:exist:///db/contents/sources/edirom_source_9b1bf6f1-b5a6-4f97-8d12-117945270b60.xml">
+                        <names>
+                            <name>Autograph</name>
+                        </names>
+                    </navigatorItem>
+                </navigatorCategory>
+            </navigatorDefinition>
+            <searchWindowConfig/>
+            <concordances>
+                <concordance name="Taktnavigation nach: Violino Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Violino Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Violoncelli e Bassi">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Viole">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Pianoforte">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Flauto Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Flauto Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Oboe Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Oboe Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarinetto Primo in B">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarinetto Secondo in B">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Fagotto Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Fagotto Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Corno Primo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Corno Secondo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarino Secondo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarino Primo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Timpani">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Autograph">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Violino Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Violino Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Viole">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Flauto Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Flauto Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Violoncelli e Bassi">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Oboe Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Oboe Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarinetto Primo in B">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarinetto Secondo in B">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Pianoforte">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Fagotto Primo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Fagotto Secondo">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Corno Primo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Corno Secondo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarino Primo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Clarino Secondo in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+                <concordance name="Taktnavigation nach: Timpani in Es">
+                    <groups label="Satz">
+                        <group name="Allegro">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Adagio">
+                            <connections label="Takt"/>
+                        </group>
+                        <group name="Rondo">
+                            <connections label="Takt"/>
+                        </group>
+                    </groups>
+                </concordance>
+            </concordances>
+        </work>
+    </works>
+</edition>

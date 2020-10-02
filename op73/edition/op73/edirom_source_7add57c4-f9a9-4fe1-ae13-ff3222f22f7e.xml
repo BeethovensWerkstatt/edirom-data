@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Oboe Secondo</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_c493b878-cc1b-4a02-a6cf-ab604d5b1ff0" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e/op.73_083.jpeg" xml:id="edirom_graphic_ca58965f-4eb8-46ef-9dd8-08db9f0a23fb" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_777aaebc-ae75-4671-83ca-8af7c91b6245" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e/op.73_084.jpeg" xml:id="edirom_graphic_90db1cb0-bb3d-4f76-a498-f718e1dc0a33" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_331cfdae-19f5-4a08-b046-73a7f27fecef" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_68d75f4f-efe4-474d-b74c-fa6970ab233f" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_96db6903-7fdc-4511-92b6-ef2bc3653880" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

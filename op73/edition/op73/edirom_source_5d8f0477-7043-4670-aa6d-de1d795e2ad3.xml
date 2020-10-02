@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <titleStmt>
+                        <title>Clarino Primo in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_c6881e95-2418-4f76-a930-b3a8d3f87cdb" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3/00000115.jpg" xml:id="edirom_graphic_00e950f8-433d-473e-81f6-92c0e75b4fcf" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_ebc92653-d6df-44a2-9cf3-054409ce7407" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3/00000116.jpg" xml:id="edirom_graphic_d5fb04c8-26b0-49c4-91b7-c37bcaff190e" type="facsimile" width="4291" height="5495"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_17065fde-9ea7-468a-b892-fd57c78c664f" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_4dc74ec7-241d-4f4c-957e-4cb60ad1d0c0" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_26003449-e88d-4778-9609-553b31d32c96" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

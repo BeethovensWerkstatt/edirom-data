@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_aa955556-a3a9-40e4-871c-4ab39c9fe056" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Clarino Secondo in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_e1c12233-a653-4261-8340-b3f759e30c64" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_aa955556-a3a9-40e4-871c-4ab39c9fe056/op.73_107.jpeg" xml:id="edirom_graphic_20e8a148-3e83-48d6-944e-e418fdc6cee8" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_9422fc75-061f-4864-8d69-6d27f0f6a8ec" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_aa955556-a3a9-40e4-871c-4ab39c9fe056/op.73_108.jpeg" xml:id="edirom_graphic_7e34ed41-6fb9-406b-bde1-cb42222c6374" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_a97fb1ad-43be-4fbd-af14-ba231c4928ad" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_fbf1b9c6-c134-4e95-9f73-74b44db8c03c" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_2b91ba16-0ca5-4fd8-8eca-d17cdfae28d8" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

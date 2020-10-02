@@ -1,0 +1,172 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Pianoforte</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_94da428f-e38c-4407-bacc-7307ff363b4a" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_001.jpeg" xml:id="edirom_graphic_d3798599-a258-4b25-be7f-680c63bf0ec0" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_0cb28282-46a0-4eda-8f33-95b23b0448f9" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_002.jpeg" xml:id="edirom_graphic_bf47181e-acca-49b8-a36a-573cfac1fb41" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_68bc170b-7df4-4e16-9732-94f10b3bbb8a" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_003.jpeg" xml:id="edirom_graphic_43fb8545-8c77-48be-8f4a-62088228b94c" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_fa6a5606-bf40-4b50-9829-62f932539384" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_004.jpeg" xml:id="edirom_graphic_edd755cb-fe53-44f8-9f2e-6a0a9d6fe208" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_00d8f362-dcd1-403c-87c3-d7cacdac3ea2" n="5">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_005.jpeg" xml:id="edirom_graphic_3928ff74-2388-409f-83b1-3226dc691f9a" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_1a56fdda-b7d9-41eb-8806-25ad952d2e97" n="6">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_006.jpeg" xml:id="edirom_graphic_35c8ec59-a644-4347-9b20-212bace05cbb" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_119d9508-a1c6-45e5-b239-c2c53fe587fc" n="7">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_007.jpeg" xml:id="edirom_graphic_ca3815ab-ca6c-48e6-a007-b4d15a3ea99c" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_7cb5fe1f-29b3-425f-b107-a26cb89a4099" n="8">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_008.jpeg" xml:id="edirom_graphic_a910a881-21b8-47b2-bb3e-45b573f9445e" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_98499200-2e69-40e4-837e-08a4e91fc3e6" n="9">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_009.jpeg" xml:id="edirom_graphic_c244729c-980c-4c74-a84b-90cdc548abf7" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_5247a1b6-0a03-45a7-af3d-4e950cb96b07" n="10">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_010.jpeg" xml:id="edirom_graphic_802cd5f6-c761-45d7-8d6b-ff3166bbd0a7" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_fd80bfe2-27df-4217-8c99-3b1a51d8f409" n="11">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_011.jpeg" xml:id="edirom_graphic_d2781270-5c85-4878-a148-29a49aea4318" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_e104b0be-dba1-4b8f-9c48-3131320fa1dc" n="12">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_012.jpeg" xml:id="edirom_graphic_dfb4f72d-8bc5-4a40-a48e-52aef72ccee5" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_0582e0b1-227b-4eb8-afa6-7243644e85e4" n="13">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_013.jpeg" xml:id="edirom_graphic_e88bc4ac-d7a0-47d5-bc4f-7399692bd693" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_87ceb19b-d574-45d8-8b7f-7281206fe11e" n="14">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_014.jpeg" xml:id="edirom_graphic_a36568e3-5d3b-4d51-adce-126f523732bc" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_45f8980d-2145-4145-90e7-1cbb9a0b8071" n="15">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_015.jpeg" xml:id="edirom_graphic_91579079-761e-49c0-9afe-bc8f3b3f8466" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_260648e7-2405-418f-8ed1-0598fa044bde" n="16">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_016.jpeg" xml:id="edirom_graphic_80eb10da-5181-462a-aff0-6473c1b1d3a1" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_5c2b2097-d837-4d63-866d-e4de39ca246a" n="17">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_017.jpeg" xml:id="edirom_graphic_07c5c80b-0daf-45d8-baff-d9fbd43dbe03" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_4fb234bb-476a-4af9-85b0-1b2203983001" n="18">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_018.jpeg" xml:id="edirom_graphic_3b42a4b4-eab0-4898-8135-95a6ccdea818" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_3d0f937a-a848-4423-a755-9d54b7c384c7" n="19">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_019.jpeg" xml:id="edirom_graphic_34a7962f-ed86-4f23-a361-dc96275f08d2" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_fb7ec30a-9fbf-490f-bf12-7de773500780" n="20">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_020.jpeg" xml:id="edirom_graphic_04544769-726e-4110-9c87-634d66fc6d08" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_44698216-638a-48c1-adcb-2a69becacdb9" n="21">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_021.jpeg" xml:id="edirom_graphic_e8476920-56b9-45f2-86d0-0703cb1768dc" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_2d67b4c2-76c3-403a-b9f3-95f612dab8e0" n="22">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_022.jpeg" xml:id="edirom_graphic_e9956fc8-c211-4f8a-a506-75484214502e" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_92ac1986-23db-4851-9b4e-b3c835f78c22" n="23">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_023.jpeg" xml:id="edirom_graphic_99f1876f-79c7-46cc-a27c-86d93e74a655" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_1b29ce8d-313e-416c-ab71-9e52837c1430" n="24">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_024.jpeg" xml:id="edirom_graphic_4d6c9ab0-5f1b-4a01-86be-b39c14d4166b" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_da1ef1a9-503c-4729-b480-75f540e20b9a" n="25">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_025.jpeg" xml:id="edirom_graphic_aec75695-1f1b-4c31-a3fb-4e00775c4850" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_095d8127-52a0-4d00-abc3-124f076f76e7" n="26">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_026.jpeg" xml:id="edirom_graphic_cc9d6f85-5596-4150-b234-8e78b266bef0" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_b64a2e54-c25c-41d7-9005-5b8a7a209420" n="27">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_027.jpeg" xml:id="edirom_graphic_a1f84486-f5bc-4cc6-ad07-7200b0538d49" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_b43e9c0e-2388-438f-a435-38b5301299a1" n="28">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_028.jpeg" xml:id="edirom_graphic_c04f7e3b-14d7-4631-a4ea-7426d1172051" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_286b94e2-54e2-41f0-825c-bacd58e414c4" n="29">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_029.jpeg" xml:id="edirom_graphic_ef78982b-d9fc-477c-8526-be31e619fa4e" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_f25bd958-8738-49c1-9130-f44af106e650" n="30">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_030.jpeg" xml:id="edirom_graphic_1c7d0998-bd9e-4b6b-9f55-dee588e1ce01" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_cb20d8d6-155d-4af7-b050-8de8b03b80af" n="31">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_031.jpeg" xml:id="edirom_graphic_39adadf1-3c94-415d-8f79-d1cfb5ee2ce6" type="facsimile" width="4448" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_34d1d018-21c2-4b65-8c76-7c54df546450" n="32">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_032.jpeg" xml:id="edirom_graphic_981de4f6-db40-47f1-8df2-58633825c8c8" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_d7904c6f-73aa-478d-9eb4-ba9fb02a3112" n="33">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_033.jpeg" xml:id="edirom_graphic_a0fa2c8e-be31-4711-a0b1-9358652c1df3" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_51493016-eabd-440a-82bd-ebb71534c9b1" n="34">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_034.jpeg" xml:id="edirom_graphic_a2890186-e638-49dd-bd14-9d01618fbefa" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_dc48387d-18d0-4fde-bfb3-68c6a44793d1" n="35">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_035.jpeg" xml:id="edirom_graphic_7901f4a0-51f2-43ab-9ecd-75955611bd99" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_4d6ea242-b0e8-4ac6-ace8-cf6579dd716b" n="36">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_036.jpeg" xml:id="edirom_graphic_11d3f180-f553-43f0-915d-ee5c9abf9d34" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_68c0701a-f3c1-4042-bc61-bc821706505b" n="37">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_037.jpeg" xml:id="edirom_graphic_89849021-f47e-465c-99ad-8783e702f358" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_8015ff64-bf0a-483e-bf31-487844b36cec" n="38">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_038.jpeg" xml:id="edirom_graphic_7a6a07c1-d2bf-4b72-9916-badb365cf629" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_becef605-3ebc-4f13-bd96-fde9414bdffa" n="39">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_039.jpeg" xml:id="edirom_graphic_6b4ed0d5-d7e7-4d6d-b7b6-d2f4138001db" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_50264d77-40dc-4189-9632-e8bdd6c3a892" n="40">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_040.jpeg" xml:id="edirom_graphic_e111532b-b6dc-4ab3-a1ab-140bd68fe862" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_08da3bb0-1a29-4b70-894f-c2149881021c" n="41">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_041.jpeg" xml:id="edirom_graphic_1aa84213-1597-440e-96db-4f2189bc437a" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_f8bb9959-5250-4381-a74d-4242c41ba62b" n="42">
+                <graphic target="edition-beethoven-modul3/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76/op.73_042.jpeg" xml:id="edirom_graphic_3e4ebc8d-13c6-45d6-83e1-995e487bd58f" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_036beb08-acfa-429d-8899-8f5ff2e65128" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_49511e40-3c69-462d-a5f6-5da6bb6369e6" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_192ae4aa-7383-42d3-ab9f-23d07054c7f3" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

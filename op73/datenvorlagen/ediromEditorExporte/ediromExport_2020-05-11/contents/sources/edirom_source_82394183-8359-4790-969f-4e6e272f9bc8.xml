@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_82394183-8359-4790-969f-4e6e272f9bc8" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Timpani in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_40ff748d-082f-47ce-89fb-2a05d292a29c" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_82394183-8359-4790-969f-4e6e272f9bc8/op.73_109.jpeg" xml:id="edirom_graphic_acf2ea3c-ff73-40d9-97c4-dff0addcd813" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_19f4b478-e4cc-41d3-9c30-73386df002ac" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_82394183-8359-4790-969f-4e6e272f9bc8/op.73_110.jpeg" xml:id="edirom_graphic_2b8ff846-ab05-49e7-8824-9743c60fcb25" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_e6d7378d-f0e3-4e28-8828-34b01822d3c3" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_85155a48-69aa-44a4-9fe3-4a231b9670c4" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_5f5b5407-ed43-414c-9e07-2bea16352138" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
