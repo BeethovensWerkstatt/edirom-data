@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="clean" name="beethoven-edition-release">
+    <property name="project.version" value="0.1"/>
+    <property name="project.app" value="beethoven-edition-release"/>
+    <property name="build.dir" value="build"/>
+    <property name="dist.dir" value="dist"/>
+    <tstamp/>
+    <property name="xar.ext" value="${project.version}-${DSTAMP}${TSTAMP}"/>
+
+    <!-- production ready -->
+
+    <target name="clean">
+        <delete dir="build/"/>
+    </target>
+
+
+    <target name="all">
+        <antcall target="edition"/>
+    </target>
+
+    <target name="edition" depends="clean">
+        
+        <property name="xar-name" value="beethoven-edition"/>
+        
+        <mkdir dir="${build.dir}"/>
+        <copy todir="${build.dir}/${xar-name}/" encoding="UTF-8" outputencoding="UTF-8">
+            <fileset dir="op73" includes="**"/>
+            <file file="existPackaging/xconf/collection.xconf"/>
+            <file file="existPackaging/repo.xml"/>
+            <file file="existPackaging/expath-pkg.xml"/>
+            <file file="existPackaging/pre-install.xql"/>
+            <filterchain>
+                <replacetokens>
+                    <token key="name" value="https://beethovens-werkstatt.de/xars/${xar-name}"/>
+                    <token key="abbrev" value="BeethovensWerkstatt-${xar-name}"/>
+                    <token key="version" value="${xar.ext}"/>
+                    <token key="title" value="BeethovensWerkstatt:${xar-name}"/>
+                    <token key="author" value="Beethovens Werkstatt - Kristin Herold"/>
+                    <token key="website" value="https://beethovens-werkstatt.de/"/>
+                    <token key="target" value="${xar-name}"/>
+                    <token key="type" value="application"/>
+                    <token key="date" value="${DSTAMP}${TSTAMP}"/>
+                </replacetokens>
+            </filterchain>
+        </copy>
+        
+        <mkdir dir="${dist.dir}"/>
+        <zip basedir="${build.dir}/${xar-name}/"
+            destfile="${dist.dir}/BeethovensWerkstatt-${xar-name}-${xar.ext}.xar"/>
+
+    </target>
+    
+</project>
