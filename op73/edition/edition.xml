@@ -25,106 +25,9 @@
                         <name>Quellen von op. 73</name>
                     </names>
                     
-                    
-                    <navigatorCategory xml:id="xbf8ac954-31f7-4202-9268-d30c7f947245" sortNo="2">
-                        <names>
-                            <name>OA A-Wn SH.Beethoven.323 post correcturam</name>
-                        </names>
-                        <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_fe2c6f98-433b-4d52-a4de-543849e9f02f.xml">
-                            <names>
-                                <name>Pianoforte</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-2" sortNo="2" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_b3ffb1f8-1116-4406-a3f8-f2b9405659cb.xml">
-                            <names>
-                                <name>Violino Primo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-3" sortNo="3" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_3ef9757b-1219-4fbf-b806-29ef5c185a4e.xml">
-                            <names>
-                                <name>Violino Secondo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-4" sortNo="4" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_e17bc4b8-ec1d-4617-95ab-2b60ef18822f.xml">
-                            <names>
-                                <name>Viole</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-5" sortNo="5" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0.xml">
-                            <names>
-                                <name>Violoncelli e Bassi</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-6" sortNo="6" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_d8ed1cae-fafc-412f-ac96-60958ed3895d.xml">
-                            <names>
-                                <name>Flauto Primo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-7" sortNo="7" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_3054b600-8ed8-4466-b86d-e536b06998de.xml">
-                            <names>
-                                <name>Flauto Secondo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-8" sortNo="8" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_43e86eef-325d-4a41-adb6-c6eb4b78156b.xml">
-                            <names>
-                                <name>Oboe Primo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-9" sortNo="9" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_7413f651-ff73-457f-83ab-29c5b1fc89b3.xml">
-                            <names>
-                                <name>Oboe Secondo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-10" sortNo="10" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5.xml">
-                            <names>
-                                <name>Clarinetto Primo in B</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-11" sortNo="11" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_4a7fd666-292e-4b2a-81c1-368518340cae.xml">
-                            <names>
-                                <name>Clarinetto Secondo in B</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-12" sortNo="12" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_ab4daa9a-4a36-4623-9509-61615c9208c0.xml">
-                            <names>
-                                <name>Fagotto Primo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-13" sortNo="13" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51.xml">
-                            <names>
-                                <name>Fagotto Secondo</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-14" sortNo="14" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_76b86ada-6d2c-4a0c-9174-24aaab94ad31.xml">
-                            <names>
-                                <name>Corno Primo in Es</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-15" sortNo="15" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_d173588d-7a27-48db-82f5-886728206261.xml">
-                            <names>
-                                <name>Corno Secondo in Es</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-16" sortNo="16" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_9c0e4e5c-828c-4978-9e9d-4281362991ea.xml">
-                            <names>
-                                <name>Clarino Secondo in Es</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-17" sortNo="17" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3.xml">
-                            <names>
-                                <name>Clarino Primo in Es</name>
-                            </names>
-                        </navigatorItem>
-                        <navigatorItem xml:id="navItem-18" sortNo="18" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_abbcc968-b746-4196-b777-550d0c90ad6c.xml">
-                            <names>
-                                <name>Timpani</name>
-                            </names>
-                        </navigatorItem>
-                    </navigatorCategory>
-                    
                     <navigatorCategory xml:id="x6bfbfb86-24b5-4ee0-910e-3ec2819bff7f" sortNo="1">
                         <names>
-                            <name>OA BNba C 73/9 ante correcturam</name>
+                            <name>ante revisionem (OA BNba C 73/9)</name>
                         </names>
                         <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_bc8d984c-3a73-410b-80d2-a7c7ecfa6a76.xml">
                             <names>
@@ -218,11 +121,108 @@
                         </navigatorItem>
                     </navigatorCategory>
                     
-                    <navigatorItem xml:id="x2dc169cc-1e8c-49b7-8438-f8ece93c9025" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_9b1bf6f1-b5a6-4f97-8d12-117945270b60.xml">
+                    <navigatorCategory xml:id="xbf8ac954-31f7-4202-9268-d30c7f947245" sortNo="2">
+                        <names>
+                            <name>post revisionem (OA A-Wn SH.Beethoven.323)</name>
+                        </names>
+                        <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_fe2c6f98-433b-4d52-a4de-543849e9f02f.xml">
+                            <names>
+                                <name>Pianoforte</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-2" sortNo="2" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_b3ffb1f8-1116-4406-a3f8-f2b9405659cb.xml">
+                            <names>
+                                <name>Violino Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-3" sortNo="3" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_3ef9757b-1219-4fbf-b806-29ef5c185a4e.xml">
+                            <names>
+                                <name>Violino Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-4" sortNo="4" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_e17bc4b8-ec1d-4617-95ab-2b60ef18822f.xml">
+                            <names>
+                                <name>Viole</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-5" sortNo="5" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0.xml">
+                            <names>
+                                <name>Violoncelli e Bassi</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-6" sortNo="6" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_d8ed1cae-fafc-412f-ac96-60958ed3895d.xml">
+                            <names>
+                                <name>Flauto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-7" sortNo="7" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_3054b600-8ed8-4466-b86d-e536b06998de.xml">
+                            <names>
+                                <name>Flauto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-8" sortNo="8" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_43e86eef-325d-4a41-adb6-c6eb4b78156b.xml">
+                            <names>
+                                <name>Oboe Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-9" sortNo="9" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_7413f651-ff73-457f-83ab-29c5b1fc89b3.xml">
+                            <names>
+                                <name>Oboe Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-10" sortNo="10" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5.xml">
+                            <names>
+                                <name>Clarinetto Primo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-11" sortNo="11" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_4a7fd666-292e-4b2a-81c1-368518340cae.xml">
+                            <names>
+                                <name>Clarinetto Secondo in B</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-12" sortNo="12" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_ab4daa9a-4a36-4623-9509-61615c9208c0.xml">
+                            <names>
+                                <name>Fagotto Primo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-13" sortNo="13" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51.xml">
+                            <names>
+                                <name>Fagotto Secondo</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-14" sortNo="14" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_76b86ada-6d2c-4a0c-9174-24aaab94ad31.xml">
+                            <names>
+                                <name>Corno Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-15" sortNo="15" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_d173588d-7a27-48db-82f5-886728206261.xml">
+                            <names>
+                                <name>Corno Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-16" sortNo="16" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_9c0e4e5c-828c-4978-9e9d-4281362991ea.xml">
+                            <names>
+                                <name>Clarino Secondo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-17" sortNo="17" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_5d8f0477-7043-4670-aa6d-de1d795e2ad3.xml">
+                            <names>
+                                <name>Clarino Primo in Es</name>
+                            </names>
+                        </navigatorItem>
+                        <navigatorItem xml:id="navItem-18" sortNo="18" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_abbcc968-b746-4196-b777-550d0c90ad6c.xml">
+                            <names>
+                                <name>Timpani</name>
+                            </names>
+                        </navigatorItem>
+                    </navigatorCategory>
+                    
+                    
+                    <!--<navigatorItem xml:id="x2dc169cc-1e8c-49b7-8438-f8ece93c9025" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_9b1bf6f1-b5a6-4f97-8d12-117945270b60.xml">
                         <names>
                             <name>Autograph</name>
                         </names>
-                    </navigatorItem>
+                    </navigatorItem>-->
                 </navigatorCategory>
             </navigatorDefinition>
             <searchWindowConfig/>
