@@ -7,15 +7,11 @@
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <bibl><identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
                     <extent unit="page">95–98</extent>
-                    <titleStmt>
-                        <title>Clarinetto Secondo in B</title>
-                    </titleStmt>
-                    <pubStmt/>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>

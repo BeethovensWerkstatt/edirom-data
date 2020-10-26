@@ -1,4 +1,6 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e" meiversion="2013">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_7add57c4-f9a9-4fe1-ae13-ff3222f22f7e" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -7,14 +9,10 @@
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">BNba C 73/9</identifier>
-                    <titleStmt>
-                        <title>Oboe Secondo</title>
-                    </titleStmt>
-                    <pubStmt/>
+                    <bibl><identifier type="siglum">BNba C 73/9</identifier>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>

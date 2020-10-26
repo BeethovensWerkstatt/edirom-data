@@ -1,21 +1,19 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_76b86ada-6d2c-4a0c-9174-24aaab94ad31" meiversion="2013">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_76b86ada-6d2c-4a0c-9174-24aaab94ad31" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Zieldokument, op. 73, Corno Primo</title>
+                <title>Zieldokument, op. 73, Corno Primo in Es</title>
             </titleStmt>
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <bibl><identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
                     <extent unit="page">107–110</extent>
-                    <titleStmt>
-                        <title>Corno Primo in Es</title>
-                    </titleStmt>
-                    <pubStmt/>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>

@@ -1,21 +1,19 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_8358eec3-a814-4e83-9c2e-0b970d231c51" meiversion="2013">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_8358eec3-a814-4e83-9c2e-0b970d231c51" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Ausgangsdokument, op. 73, Clarinetto Primo</title>
+                <title>Ausgangsdokument, op. 73, Clarinetto Primo in B</title>
             </titleStmt>
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <bibl><identifier type="siglum">BNba C 73/9</identifier>
                     <extent unit="page">85–88</extent>
-                    <titleStmt>
-                        <title>Clarinetto Primo in B</title>
-                    </titleStmt>
-                    <pubStmt/>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>

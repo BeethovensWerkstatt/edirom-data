@@ -1,4 +1,6 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3" meiversion="2013">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -7,15 +9,11 @@
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <bibl><identifier type="siglum">BNba C 73/9</identifier>
                     <extent unit="page">102–104</extent>
-                    <titleStmt>
-                        <title>Corno Secondo in Es</title>
-                    </titleStmt>
-                    <pubStmt/>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>

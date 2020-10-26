@@ -1,4 +1,6 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_43e86eef-325d-4a41-adb6-c6eb4b78156b" meiversion="2013">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_43e86eef-325d-4a41-adb6-c6eb4b78156b" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -7,15 +9,11 @@
             <pubStmt/>
             <sourceDesc>
                 <source>
-                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <bibl><identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
                     <extent unit="page">85–88</extent>
-                    <titleStmt>
-                        <title>Oboe Primo</title>
-                    </titleStmt>
-                    <pubStmt/>
                     <relationList>
                         <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
+                    </relationList></bibl>
                 </source>
             </sourceDesc>
         </fileDesc>
