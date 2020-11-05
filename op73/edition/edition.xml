@@ -25,6 +25,12 @@
                         <name>Quellen von op. 73</name>
                     </names>
                     
+                    <navigatorItem xml:id="navItem-1" sortNo="1" targets="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_source_9b1bf6f1-b5a6-4f97-8d12-117945270b60.xml">
+                        <names>
+                            <name>Autograph (Mus.ms.autogr. Beethoven, L. v. 15)</name>
+                        </names>
+                    </navigatorItem>
+                    
                     <navigatorCategory xml:id="x6bfbfb86-24b5-4ee0-910e-3ec2819bff7f" sortNo="1">
                         <names>
                             <name>ante revisionem (OA BNba C 73/9)</name>
