@@ -2,7 +2,7 @@
 <prefs><version>1.0</version>
     <entries>
         
-<!--        <entry key="image_prefix" value="https://images.pasticcio-project.eu/Scaler/IIIF/"/>-->
+        <entry key="image_prefix" value="https://edirom-images.beethovens-werkstatt.de/Scaler/IIIF/"/>
         <entry key="image_server" value="openseadragon"/>
         <entry key="edition_path" value="/db/apps/beethoven-edirom-data"/>
         <entry key="annotation_layout" value="EdiromOnline.view.window.annotationLayouts.AnnotationLayout1"/>
