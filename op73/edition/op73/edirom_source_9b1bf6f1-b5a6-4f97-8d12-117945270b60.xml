@@ -567,6 +567,8 @@
                 <zone xml:id="zone_bc798733-575c-4c61-a502-e463f456e444" type="measure" ulx="60" uly="34" lrx="287" lry="692"/>
                 <zone xml:id="zone_1ffbfa83-b6cb-447b-a018-9d23b1f61c30" type="measure" ulx="267" uly="34" lrx="577" lry="692"/>
                 <zone xml:id="zone_fe692790-ea00-4fda-a737-2e729992801d" type="measure" ulx="557" uly="34" lrx="903" lry="692"/>
+                <zone xml:id="zone_1ffbfa83-b6cb-447b-a018-9d23b1f61c31" type="measure" ulx="267" uly="34" lrx="577" lry="692"/>
+                <zone xml:id="zone_fe692790-ea00-4fda-a737-2e729992801e" type="measure" ulx="557" uly="34" lrx="903" lry="692"/>
             </surface>
             <surface xml:id="surface_d0bef800-a703-4d98-96ba-dc67e0e3a25e" n="77" ulx="0" uly="0" lrx="1000" lry="781">
                 <graphic xml:id="graphic_cc6c6c8a-190b-4b54-846f-6f10615006e4" target="op73/autograph/Mus-ms-autogr-15_Autograph_Op-73_Seite_077.jpg" type="facsimile" width="1000" height="781"/>
@@ -2319,8 +2321,8 @@
                         <measure n="295" xml:id="measure_2e719433-adff-4803-93ae-4754362604f4" facs="#zone_bc798733-575c-4c61-a502-e463f456e444"/>
                         <measure n="296" xml:id="measure_0e7fdfdf-1c7d-40a0-adfb-523f3661cbad" facs="#zone_1ffbfa83-b6cb-447b-a018-9d23b1f61c30"/>
                         <measure n="297" xml:id="measure_8b41ed26-3f87-442c-a6ce-682b27d71f2e" facs="#zone_fe692790-ea00-4fda-a737-2e729992801d"/>
-                        <measure n="298" xml:id="measure11c75aa0-6aba-405a-9790-25707642609a" facs="#zone_1ffbfa83-b6cb-447b-a018-9d23b1f61c30"/>
-                        <measure n="299" xml:id="measure9d3de37c-d644-4aa7-8b35-19efa943b9fa" facs="#zone_fe692790-ea00-4fda-a737-2e729992801d"/>
+                        <measure n="298" xml:id="measure11c75aa0-6aba-405a-9790-25707642609a" facs="#zone_1ffbfa83-b6cb-447b-a018-9d23b1f61c31"/>
+                        <measure n="299" xml:id="measure9d3de37c-d644-4aa7-8b35-19efa943b9fa" facs="#zone_fe692790-ea00-4fda-a737-2e729992801e"/>
                         
                         
                         <measure n="300" xml:id="measure_0790811c-1761-4254-b7e8-4ba2b24d6363" facs="#zone_e4cca1dc-999c-46d8-ac1b-d92c1e30a0c5"/>

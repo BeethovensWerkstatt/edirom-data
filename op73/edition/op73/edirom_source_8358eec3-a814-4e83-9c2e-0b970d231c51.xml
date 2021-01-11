@@ -415,6 +415,8 @@
                 <zone xml:id="zone_9daf7ec6-e5f2-44a2-9efb-20faf23036cd" type="measure" ulx="1668" uly="1934" lrx="1976" lry="2246"/>
                 <zone xml:id="zone_082e0338-9516-46c6-b60d-01cd94a1d042" type="measure" ulx="1936" uly="1934" lrx="2414" lry="2246"/>
                 <zone xml:id="zone_2b496f73-5c67-49f2-9402-8413ad631b77" type="measure" ulx="2374" uly="1934" lrx="2856" lry="2246"/>
+                <zone xml:id="zone_082e0338-9516-46c6-b60d-01cd94a1d043" type="measure" ulx="1936" uly="1934" lrx="2414" lry="2246"/>
+                <zone xml:id="zone_2b496f73-5c67-49f2-9402-8413ad631b78" type="measure" ulx="2374" uly="1934" lrx="2856" lry="2246"/>
                 <zone xml:id="zone_30bc5e93-88c5-4768-a0e2-c2bfef21e6d9" type="measure" ulx="2816" uly="1934" lrx="3028" lry="2246"/>
                 <zone xml:id="zone_5a5d5862-9cf7-4784-8578-eb2abb918d7c" type="measure" ulx="2988" uly="1934" lrx="3214" lry="2246"/>
                 <zone xml:id="zone_08ce924e-f5b9-4f90-95cc-1d2f2a4d181e" type="measure" ulx="3174" uly="1934" lrx="3394" lry="2246"/>
@@ -1053,8 +1055,8 @@
                         <measure n="572" xml:id="measure_0f7ccaf4-0432-4402-ae70-b69624a291c6" facs="#zone_9daf7ec6-e5f2-44a2-9efb-20faf23036cd"/>
                         <measure n="573" xml:id="measure_92165f47-9778-4812-b217-57c9d78fc863" facs="#zone_082e0338-9516-46c6-b60d-01cd94a1d042"/>
                         <measure n="574" xml:id="measure_63420e8f-2f39-4d0e-8385-287ffded3936" facs="#zone_2b496f73-5c67-49f2-9402-8413ad631b77"/>
-                        <measure n="575" xml:id="measure2bc853ec-c92c-4c1c-b9ef-c0829fafeb08" facs="#zone_082e0338-9516-46c6-b60d-01cd94a1d042"/>
-                        <measure n="576" xml:id="measure396c18a3-c926-4128-a889-b07367d277ad" facs="#zone_2b496f73-5c67-49f2-9402-8413ad631b77"/>
+                        <measure n="575" xml:id="measure2bc853ec-c92c-4c1c-b9ef-c0829fafeb08" facs="#zone_082e0338-9516-46c6-b60d-01cd94a1d043"/>
+                        <measure n="576" xml:id="measure396c18a3-c926-4128-a889-b07367d277ad" facs="#zone_2b496f73-5c67-49f2-9402-8413ad631b78"/>
                         <measure n="577" xml:id="measure_8896223a-79da-4c59-a41a-3f120be080c5" facs="#zone_30bc5e93-88c5-4768-a0e2-c2bfef21e6d9"/>
                         <measure n="578" xml:id="measure_9b9079d3-adb3-4516-8907-ebb0d2bfcb7a" facs="#zone_5a5d5862-9cf7-4784-8578-eb2abb918d7c"/>
                         <measure n="579" xml:id="measure_f6989430-373a-4a40-8ae3-c3ad7c27e91d" facs="#zone_08ce924e-f5b9-4f90-95cc-1d2f2a4d181e"/>
