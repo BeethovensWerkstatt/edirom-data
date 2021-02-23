@@ -31,7 +31,7 @@
     <music>
         <facsimile>
             <surface xml:id="edirom_surface_040b42c6-1bd8-484e-9f8e-34cc20863974" n="1">
-                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/00000001.jpg" xml:id="edirom_graphic_3735b98f-f0e0-42ce-8098-9e0faf6c8d7a" type="facsimile" width="4696" height="6340"/>
+                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/001.jpg" xml:id="edirom_graphic_3735b98f-f0e0-42ce-8098-9e0faf6c8d7a" type="facsimile" width="4696" height="6340"/>
                 <zone xml:id="edirom_zone_8b35da52-6da8-4622-8263-b3a0a48d8918" type="measure" ulx="775" uly="413" lrx="2488" lry="1238"/>
                 <zone xml:id="edirom_zone_2a55bdb1-ca7c-42a0-a0ca-758fa1856693" type="measure" ulx="3969" uly="406" lrx="4557" lry="837"/>
                 <zone xml:id="edirom_zone_afe0054a-d080-49a0-893e-3d7d3e116bda" type="measure" ulx="538" uly="881" lrx="1588" lry="1975"/>
@@ -61,7 +61,7 @@
                 <zone xml:id="edirom_zone_226dc5b1-cb0f-425e-98af-addd01e0cc59" type="measure" ulx="3956" uly="4800" lrx="4400" lry="5450"/>
             </surface>
             <surface xml:id="edirom_surface_ff1e89b9-d945-441b-9858-1f101a16e3b9" n="2">
-                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/00000002.jpg" xml:id="edirom_graphic_901ddecd-87ec-49a3-8fc0-a1581739fb55" type="facsimile" width="4752" height="6356"/>
+                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/002.jpg" xml:id="edirom_graphic_901ddecd-87ec-49a3-8fc0-a1581739fb55" type="facsimile" width="4752" height="6356"/>
                 <zone xml:id="edirom_zone_821f77c0-cf18-447e-aee1-4dc15c68c33d" type="measure" ulx="569" uly="306" lrx="1613" lry="994"/>
                 <zone xml:id="edirom_zone_3d2578c8-23e8-4569-93d0-2968e05ecbda" type="measure" ulx="1488" uly="375" lrx="2444" lry="969"/>
                 <zone xml:id="edirom_zone_783493a1-aec5-4b7f-9ae3-8803dad15483" type="measure" ulx="3850" uly="306" lrx="4613" lry="869"/>
@@ -99,7 +99,7 @@
                 <zone xml:id="edirom_zone_c5c48be6-adb9-40d0-ba32-c52e0fdd5c58" type="measure" ulx="681" uly="5619" lrx="3300" lry="6219"/>
             </surface>
             <surface xml:id="edirom_surface_2b496b75-d94b-4668-ab3c-102f0e9105b3" n="3">
-                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/00000003.jpg" xml:id="edirom_graphic_3ebe5ba5-2e80-42e7-8fb8-1c7082a35617" type="facsimile" width="4832" height="6356"/>
+                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/003.jpg" xml:id="edirom_graphic_3ebe5ba5-2e80-42e7-8fb8-1c7082a35617" type="facsimile" width="4832" height="6356"/>
                 <zone xml:id="edirom_zone_de657874-d826-4bb3-a600-9850d6b0a82f" type="measure" ulx="412" uly="237" lrx="2191" lry="1116"/>
                 <zone xml:id="edirom_zone_13a4e201-47b8-4eb2-9100-ffcf8ded65b2" type="measure" ulx="2065" uly="181" lrx="2860" lry="962"/>
                 <zone xml:id="edirom_zone_849f9f18-f871-438d-a0ce-2b407412b5d2" type="measure" ulx="4047" uly="307" lrx="4724" lry="872"/>
@@ -114,10 +114,10 @@
                 <zone xml:id="edirom_zone_331f9c28-c83a-450c-b2de-d8e85575dc35" type="measure" ulx="4054" uly="2630" lrx="4710" lry="3160"/>
             </surface>
             <surface xml:id="edirom_surface_3145efbb-444e-4331-9570-f2faf04a3e32" n="4">
-                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/00000004.jpg" xml:id="edirom_graphic_afb69866-a47b-4d02-875e-35dace0c125a" type="facsimile" width="4712" height="6427"/>
+                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/004.jpg" xml:id="edirom_graphic_afb69866-a47b-4d02-875e-35dace0c125a" type="facsimile" width="4712" height="6427"/>
             </surface>
             <surface xml:id="edirom_surface_c02dd6bb-9a94-4487-b40e-5681dbffb207" n="5">
-                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/00000005.jpg" xml:id="edirom_graphic_ba6bdeb4-acee-4ded-9859-cfcf85e4f51a" type="facsimile" width="2968" height="4429"/>
+                <graphic target="op73/US-NYj_31_B393cp_no.5_errata/005.jpg" xml:id="edirom_graphic_ba6bdeb4-acee-4ded-9859-cfcf85e4f51a" type="facsimile" width="2968" height="4429"/>
             </surface>
         </facsimile>
         <body>
