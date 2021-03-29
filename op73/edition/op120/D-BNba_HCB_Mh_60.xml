@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Revisionsdokument, op. 120</title>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <bibl>
+                        <identifier>D-BNba_HCB_Mh_60</identifier>
+                    </bibl>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_282ccee7-adc5-4487-9e73-69f2454d54da" n="1" ulx="0" uly="0" lrx="7856" lry="6048">
+                <graphic xml:id="graphic_f18c91a9-bcc9-497d-8d68-d26e099a8dfe" target="REV_S1.jpg" type="facsimile" width="7856" height="6048"/>
+            </surface>
+            <surface xml:id="surface_0ef6266a-1569-4992-86b2-9517017d68a5" n="2" ulx="0" uly="0" lrx="7712" lry="6000">
+                <graphic xml:id="graphic_4034515a-38f0-4501-8ed5-75152f7eb74d" target="REV_S2.jpg" type="facsimile" width="7712" height="6000"/>
+            </surface>
+            <surface xml:id="surface_c38027e2-ee59-4d43-ac9e-1686e68327e9" n="3" ulx="0" uly="0" lrx="7856" lry="6048">
+                <graphic xml:id="graphic_5f4a45d7-ff3e-4025-bcb1-30daf7107b14" target="REV_S3.jpg" type="facsimile" width="7856" height="6048"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_f5c2df41-e86b-48b5-a040-b57e07cf3033" n="1" label="">
+                <score>
+                    <scoreDef/>
+                    <section>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
