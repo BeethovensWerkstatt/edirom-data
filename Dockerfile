@@ -26,7 +26,9 @@ ENV PATH /opt/Sencha/Cmd/:$PATH
 
 WORKDIR /edirom-online
 
-RUN sh build.sh && \
+RUN git checkout develop && \
+    git fetch && git pull && \
+    sh build.sh && \
     mv build-xar/*.xar /xars/
 
 WORKDIR /edition
