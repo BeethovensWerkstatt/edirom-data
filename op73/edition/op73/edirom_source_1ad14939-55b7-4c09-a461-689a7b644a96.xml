@@ -1,0 +1,60 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_1ad14939-55b7-4c09-a461-689a7b644a96">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Korrekturliste B, op.73</title>
+                <title type="subordinate">BGA 496</title>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <bibl>
+                        <title>
+                            Brief BGA 496
+                        </title>
+                        <respStmt>
+                            <persName role="cmp aut">Ludwig van Beethoven </persName>
+                            <corpName role="rcp">Breitkopf und Härtel</corpName>
+                        </respStmt>
+                        <physLoc>
+                            <repository codedval="D-BNba">Beethoven-Haus</repository>
+                            <identifier>HCB BBr 9</identifier>
+                        </physLoc>
+                    </bibl>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="surface_28f79e38-e7b1-485a-b4c1-a415a8882465" n="1" ulx="0" uly="0" lrx="8825" lry="5563">
+                <graphic xml:id="graphic_0d1151fa-cf63-4b89-bf79-ce32d79bf800" target="op73/D-BNba_H.C.Bodmer_BBr_9-1/D-BNba_H.C.Bodmer_BBr_9-1_1.jpg" type="facsimile" width="8825" height="5563"/>
+                <zone xml:id="zone_81aa0f0b-ad4c-4a2d-927b-7a7d8fb6bfa5" type="measure" ulx="1208" uly="1594" lrx="3151" lry="2699"/>
+                <zone xml:id="zone_b0be514e-ab5c-44f6-b928-092dd324c523" type="measure" ulx="2652" uly="2366" lrx="3305" lry="2895"/>
+            </surface>
+            <surface xml:id="surface_995a7434-f575-40f3-bedb-62d9fbf4f7ba" n="2" ulx="0" uly="0" lrx="8825" lry="5563">
+                <graphic xml:id="graphic_160f7132-4866-4c5b-9d97-cbfcb7410174" target="op73/D-BNba_H.C.Bodmer_BBr_9-1/D-BNba_H.C.Bodmer_BBr_9-1_2.jpg" type="facsimile" width="8825" height="5563"/>
+            </surface>
+            <surface xml:id="surface_4ec5f562-4b1d-4457-86cd-368406603444" n="3" ulx="0" uly="0" lrx="5611" lry="4657">
+                <graphic xml:id="graphic_f4549755-2b7f-4d91-b882-be0e492058e8" target="op73/D-BNba_H.C.Bodmer_BBr_9-1/D-BNba_H.C.Bodmer_BBr_9-1_3.jpg" type="facsimile" width="5611" height="4657"/>
+            </surface>
+            <surface xml:id="surface_4772f777-b996-4e22-a6f9-4ece0e4bde7b" n="4" ulx="0" uly="0" lrx="5611" lry="4657">
+                <graphic xml:id="graphic_e5830da8-7d85-461a-ac9c-785d7f0b1fdc" target="op73/D-BNba_H.C.Bodmer_BBr_9-1/D-BNba_H.C.Bodmer_BBr_9-1_4.jpg" type="facsimile" width="5611" height="4657"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="page_3afebf55-3fba-404f-b78f-2b07ead5c920" label="Monitum 1">
+                <score>
+                    <scoreDef/>
+                    <section>
+                        <measure n="1" label="1" xml:id="measure_8186e652-6f1a-4d00-a479-9abec5a568e1" facs="#zone_81aa0f0b-ad4c-4a2d-927b-7a7d8fb6bfa5"/>
+                        <measure n="2" label="2" xml:id="measure_8c405fbb-c982-4c95-bdc9-505fe2835de0" facs="#zone_b0be514e-ab5c-44f6-b928-092dd324c523"/>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
