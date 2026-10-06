@@ -1,0 +1,55 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Corno Secondo in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_a3810969-7846-48ff-8640-1e9b9b620889" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3/op.73_102.jpeg" xml:id="edirom_graphic_f5f1d95c-cd10-44d4-b986-c7c8bee91100" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_9f072a5c-7791-4f08-9304-76b5494360d2" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3/op.73_103.jpeg" xml:id="edirom_graphic_a1bbce4c-9bd5-4377-90b4-a3e0815b0bc0" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_e9af7051-21f9-4dd0-91ee-ca234c6553c8" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_e5dbd43c-818e-4196-bc77-ed12ad22d6d3/op.73_104.jpeg" xml:id="edirom_graphic_853d5374-cd1e-4c35-8178-a541a41a07f1" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_d6e8d116-aa0a-4c45-85e5-c1e44dce9186" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_1bebef71-b60a-4413-9793-a838690312be" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_0931de87-9315-4b87-8e70-0fa50d9892e2" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

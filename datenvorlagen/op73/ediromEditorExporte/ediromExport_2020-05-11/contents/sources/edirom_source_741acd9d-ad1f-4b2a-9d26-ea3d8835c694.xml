@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_741acd9d-ad1f-4b2a-9d26-ea3d8835c694" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Clarino Primo in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_c6155eff-ae83-4716-86d7-2f653209b99b" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_741acd9d-ad1f-4b2a-9d26-ea3d8835c694/op.73_105.jpeg" xml:id="edirom_graphic_8c0cba75-6a5c-4479-8e25-cff59195fa99" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_1e689fde-c831-4aa7-9aa2-d975b212bbaf" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_741acd9d-ad1f-4b2a-9d26-ea3d8835c694/op.73_106.jpeg" xml:id="edirom_graphic_2e2381a9-902b-4c2f-9051-204117fcf67c" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_e45a22c8-4c2a-4dd7-8178-aeb22def93ec" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_1afbc8b1-8fbb-4ad5-ac4c-25e290f473a0" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_74de7fb9-eb83-4097-823d-fbdedf2d70c9" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

@@ -1,0 +1,58 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <titleStmt>
+                        <title>Clarinetto Primo in B</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_a723f7dc-3d64-49f6-ab1d-dd7a235c52d4" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5/00000091.jpg" xml:id="edirom_graphic_123b9b30-1bd2-4112-b164-0d66e8ea53a4" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_de2b7716-2f6d-40f0-a9c2-ff89dc3bf761" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5/00000092.jpg" xml:id="edirom_graphic_54f7e388-18c0-4223-a016-a28dc7d27af8" type="facsimile" width="4278" height="5589"/>
+            </surface>
+            <surface xml:id="edirom_surface_4c898980-da19-4911-ad24-97524c0c7d63" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5/00000093.jpg" xml:id="edirom_graphic_d690033c-0a54-4b7d-8c29-535ebce57a30" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_109a764d-bc32-426d-b594-4de788a2b752" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_1aab3352-9a30-4e95-b449-1791a7074ea5/00000094.jpg" xml:id="edirom_graphic_2fddabd1-8a86-4e8d-ac03-504ecdfc9a6f" type="facsimile" width="4278" height="5589"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_0e39fd11-f3cd-48ba-a166-e7559f2eaba6" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_6106ca03-3c66-4514-8fbb-d7743b1af409" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_2c02568d-ecd8-4f94-82d5-af98d84cb460" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

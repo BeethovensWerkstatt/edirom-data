@@ -1,0 +1,58 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <titleStmt>
+                        <title>Fagotto Secondo</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_acd3ffc0-9136-4df8-ba18-942a8510bf14" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51/00000103.jpg" xml:id="edirom_graphic_9ebcd55d-5887-484e-a355-f28dd2409278" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_b3588578-643c-475b-a52a-2991d8701de0" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51/00000104.jpg" xml:id="edirom_graphic_fb0b3db4-1eb0-4fd5-8960-bbfc7e118180" type="facsimile" width="4278" height="5513"/>
+            </surface>
+            <surface xml:id="edirom_surface_40947a9e-4548-438d-b0c7-59971166646c" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51/00000105.jpg" xml:id="edirom_graphic_1714339e-7967-455a-870f-3f7deca6df4e" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_9e4839a5-a692-4a8f-9c39-74d6463e578f" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_f9cf4f4f-5d56-4ba6-bebd-5b5933df2f51/00000106.jpg" xml:id="edirom_graphic_20d4596c-a2fa-499c-86a4-584948e66e19" type="facsimile" width="4278" height="5513"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_b9195412-7213-49d4-9292-48270054e1ae" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_3b5dc299-d2d9-4dac-a442-d1584a9cd1ad" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_763b0970-06e8-4ba9-8ec2-aa9f1bf42e3d" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

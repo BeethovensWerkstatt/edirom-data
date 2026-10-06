@@ -1,0 +1,52 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_8efe17b9-7a7d-4ff8-8f18-14fa2ec6a054" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">BNba C 73/9</identifier>
+                    <titleStmt>
+                        <title>Flauto Secondo</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_d4abd9bd-6ff2-41cc-aa24-3c24e4521ae4" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_8efe17b9-7a7d-4ff8-8f18-14fa2ec6a054/op.73_077.jpeg" xml:id="edirom_graphic_d049e498-35dd-47c9-a8f5-c5974581e397" type="facsimile" width="4544" height="5776"/>
+            </surface>
+            <surface xml:id="edirom_surface_2f02b6c1-c297-457c-9ed4-927b21836164" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_8efe17b9-7a7d-4ff8-8f18-14fa2ec6a054/op.73_078.jpeg" xml:id="edirom_graphic_8084cebb-98fe-4007-b37c-faf7b43b29d3" type="facsimile" width="4544" height="5776"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_f3f58144-5038-4d7d-b2ee-978691da6550" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_dd580b8d-73ff-4ac8-8082-5043f8daf0f2" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_e2735fc8-212d-429e-acda-8032bee9b485" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

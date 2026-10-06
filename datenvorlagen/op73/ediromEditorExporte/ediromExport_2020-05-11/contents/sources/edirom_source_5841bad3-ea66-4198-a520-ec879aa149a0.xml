@@ -1,0 +1,70 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <titleStmt>
+                        <title>Violoncelli e Bassi</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_bef93cc5-3984-4557-8998-653be40f7912" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000071.jpg" xml:id="edirom_graphic_28f4c92f-f048-40af-bd48-54d07c3954e7" type="facsimile" width="4272" height="5545"/>
+            </surface>
+            <surface xml:id="edirom_surface_e33c30bb-2096-4847-8cae-3f27290ed6c3" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000072.jpg" xml:id="edirom_graphic_7350ac6a-168f-48a2-9b64-dea182e77222" type="facsimile" width="4253" height="5507"/>
+            </surface>
+            <surface xml:id="edirom_surface_15133dfd-44fb-47c3-8ce5-753c78a6403e" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000073.jpg" xml:id="edirom_graphic_acbdbae4-5908-4ea1-a865-c558d97ad766" type="facsimile" width="4272" height="5545"/>
+            </surface>
+            <surface xml:id="edirom_surface_05039fdb-d5b1-4ee5-a020-3b780dffbdc3" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000074.jpg" xml:id="edirom_graphic_f75b9f41-449b-4943-b745-d0f3315e787e" type="facsimile" width="4303" height="5501"/>
+            </surface>
+            <surface xml:id="edirom_surface_f168c133-41b0-48a2-9088-0bb39ef03f60" n="5">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000075.jpg" xml:id="edirom_graphic_ff3b6555-933a-432a-9b87-44d43ed2bee5" type="facsimile" width="4272" height="5514"/>
+            </surface>
+            <surface xml:id="edirom_surface_fdfcc021-4cbb-4eeb-af57-9a24cdd9679f" n="6">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000076.jpg" xml:id="edirom_graphic_af75f10b-032a-4fd6-a502-5aad9b477cef" type="facsimile" width="4303" height="5501"/>
+            </surface>
+            <surface xml:id="edirom_surface_d0d7b08b-7244-4c6a-96b8-36ab3c2adff0" n="7">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000077.jpg" xml:id="edirom_graphic_c1db4f64-8a69-45a4-bfa9-0e0c10d12606" type="facsimile" width="4272" height="5514"/>
+            </surface>
+            <surface xml:id="edirom_surface_ca42cbc6-daae-4b79-b39c-fcd613e95058" n="8">
+                <graphic target="edition-beethoven-modul3/edirom_source_5841bad3-ea66-4198-a520-ec879aa149a0/00000078.jpg" xml:id="edirom_graphic_1b8bca03-d0d3-45c7-a2a4-890740177b98" type="facsimile" width="4303" height="5526"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_f7057915-48a3-4249-9bcf-37abd40a31ad" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_668b7c4c-60ca-4675-b755-738198e6e6e6" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_2ecda109-b216-4e77-8011-82f4cc724c06" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>

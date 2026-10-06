@@ -1,0 +1,58 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_d173588d-7a27-48db-82f5-886728206261" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <pubStmt/>
+            <sourceDesc>
+                <source>
+                    <identifier type="siglum">A-Wn, SH.Beethoven.323</identifier>
+                    <titleStmt>
+                        <title>Corno Secondo in Es</title>
+                    </titleStmt>
+                    <pubStmt/>
+                    <relationList>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    </relationList>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="edirom_surface_f21eda6e-ae15-4705-b414-632b9d0d6c61" n="1">
+                <graphic target="edition-beethoven-modul3/edirom_source_d173588d-7a27-48db-82f5-886728206261/00000111.jpg" xml:id="edirom_graphic_dc02744b-8007-4398-8ba4-0f327ee837ed" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_161082ec-99fd-493f-acde-25f612ee0c2d" n="2">
+                <graphic target="edition-beethoven-modul3/edirom_source_d173588d-7a27-48db-82f5-886728206261/00000112.jpg" xml:id="edirom_graphic_8504ea29-d1a8-4b60-a396-68d919ec66b1" type="facsimile" width="4259" height="5495"/>
+            </surface>
+            <surface xml:id="edirom_surface_4f98f32b-3c50-4752-9aed-2ff851b82f8e" n="3">
+                <graphic target="edition-beethoven-modul3/edirom_source_d173588d-7a27-48db-82f5-886728206261/00000113.jpg" xml:id="edirom_graphic_e3fc6432-afc6-45b7-9103-c842befb755d" type="facsimile" width="4292" height="5557"/>
+            </surface>
+            <surface xml:id="edirom_surface_23584740-0b82-4cd3-a0ff-59ef438c4782" n="4">
+                <graphic target="edition-beethoven-modul3/edirom_source_d173588d-7a27-48db-82f5-886728206261/00000114.jpg" xml:id="edirom_graphic_a0b57ca8-5731-4575-9b14-e90bdbf7f6a1" type="facsimile" width="4259" height="5495"/>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv xml:id="edirom_mdiv_89d75342-28d1-43b0-8e5b-ba53496a6e4f" label="Allegro">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_aef0cce6-5766-467c-a404-abe4528890f9" label="Adagio">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+            <mdiv xml:id="edirom_mdiv_14e071eb-188c-42a3-bfd6-329efbcd0b96" label="Rondo">
+                <score>
+                    <scoreDef/>
+                    <section/>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
