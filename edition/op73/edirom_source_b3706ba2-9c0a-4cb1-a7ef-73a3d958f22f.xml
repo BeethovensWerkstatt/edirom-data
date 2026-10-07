@@ -1,4 +1,4 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_b3706ba2-9c0a-4cb1-a7ef-73a3d958f22f" meiversion="2013">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_source_b3706ba2-9c0a-4cb1-a7ef-73a3d958f22f" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -20,10 +20,10 @@
                             <repository codedval="US-NYj">New York City, NY, Vereinigte Staaten, The Juilliard School, Lila Acheson Wallace Library</repository>
                             <identifier>31 B393cp no. 5 errata</identifier>
                         </physLoc>
+                        <relationList>
+                            <relation rel="isEmbodimentOf" target="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                        </relationList>
                     </bibl>
-                    <relationList>
-                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
-                    </relationList>
                 </source>
             </sourceDesc>
         </fileDesc>

@@ -12,7 +12,7 @@
                     <bibl><identifier type="siglum">BNba C 73/9</identifier>
                     <extent>77–78</extent>
                     <relationList>
-                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/contents/works/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/apps/beethoven-edirom-data/op73/edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477.xml#edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
                     </relationList></bibl>
                 </source>
             </sourceDesc>
