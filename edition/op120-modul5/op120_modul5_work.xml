@@ -1,0 +1,31 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="op120_modul5_work" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>op. 120 (Modul 5)</title>
+            </titleStmt>
+            <pubStmt/>
+        </fileDesc>
+        <workList>
+            <work>
+                <title>Diabelli-Variationen (Modul 5)</title>
+                <composer>
+                    <persName>Ludwig van Beethoven</persName>
+                </composer>
+                <notesStmt>
+                    <annot type="criticalCommentary"/>
+                </notesStmt>
+                <classification>
+                    <termList class="#ediromCategory"/>
+                    <termList class="#ediromPriority"/>
+                </classification>
+                <expressionList>
+                    <expression label="Diabelli-Variationen" xml:id="op120_modul5_work_exp1">
+                        <title>Diabelli-Variationen</title>
+                    </expression>
+                </expressionList>
+            </work>
+        </workList>
+    </meiHead>
+    <music/>
+</mei>
