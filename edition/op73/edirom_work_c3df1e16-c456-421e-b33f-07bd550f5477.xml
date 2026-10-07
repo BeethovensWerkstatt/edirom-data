@@ -1,4 +1,4 @@
-<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477" meiversion="2013">
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -6,28 +6,26 @@
             </titleStmt>
             <pubStmt/>
         </fileDesc>
-        <workDesc>
+        <workList>
             <work>
-                <titleStmt>
-                    <title>5. Klavierkonzert</title>
-                    <respStmt>
-                        <persName role="composer">Ludwig van Beethoven</persName>
-                    </respStmt>
-                </titleStmt>
+                <title>5. Klavierkonzert</title>
+                <composer>
+                    <persName>Ludwig van Beethoven</persName>
+                </composer>
                 <notesStmt>
                     <annot type="criticalCommentary"/>
                 </notesStmt>
                 <classification>
-                    <classCode xml:id="ediromCategory"/>
-                    <classCode xml:id="ediromPriority"/>
-                    <termList classcode="#ediromCategory"/>
-                    <termList classcode="#ediromPriority"/>
+                    <termList class="#ediromCategory"/>
+                    <termList class="#ediromPriority"/>
                 </classification>
                 <expressionList>
-                    <expression label="5. Klavierkonzert" xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1"/>
+                    <expression label="5. Klavierkonzert" xml:id="edirom_work_c3df1e16-c456-421e-b33f-07bd550f5477_exp1">
+                        <title>5. Klavierkonzert</title>
+                    </expression>
                 </expressionList>
             </work>
-        </workDesc>
+        </workList>
     </meiHead>
     <music/>
 </mei>

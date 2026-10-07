@@ -10,10 +10,10 @@
                 <source>
                     <bibl>
                         <identifier></identifier>
+                        <relationList>
+                            <relation rel="isEmbodimentOf" target="xmldb:exist:///db/apps/beethoven-edirom-data/op120/op120_work.xml#op120_work_exp1"/>
+                        </relationList>
                     </bibl>
-                    <relationList>
-                        <relation rel="isEmbodimentOf" target="xmldb:exist:///db/apps/beethoven-edirom-data/op120/op120_work.xml#op120_work_exp1"/>
-                    </relationList>
                 </source>
             </sourceDesc>
         </fileDesc>
