@@ -1,0 +1,98 @@
+name: Docker Build and Push
+
+# Baut das Docker-Image (eXist-db + Edirom Online + Daten) und legt es in der
+# GitHub Container Registry ab: ghcr.io/beethovenswerkstatt/edirom-data
+#
+# - Pull Request auf main: nur bauen und testen, nicht hochladen
+# - Push auf main:         Image mit Tag "main"
+# - Versions-Tag v1.2.3:   Images mit Tags "1.2.3", "1.2" und "latest";
+#                          das Daten-XAR erhält die Version 1.2.3
+
+on:
+  push:
+    branches: [ main ]
+    tags: [ 'v*' ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  IMAGE: ghcr.io/beethovenswerkstatt/edirom-data
+
+jobs:
+  build-test-and-push:
+    name: Build, test and push Docker image
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v4
+
+      - name: Extract Docker metadata
+        id: meta
+        uses: docker/metadata-action@v6
+        with:
+          images: ${{ env.IMAGE }}
+          tags: |
+            type=ref,event=pr
+            type=ref,event=branch
+            type=semver,pattern={{version}}
+            type=semver,pattern={{major}}.{{minor}}
+
+      - name: Determine data version
+        id: version
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/v* ]]; then
+            echo "value=${GITHUB_REF#refs/tags/v}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Testlauf: Image für amd64 bauen, starten und prüfen, ob die Edition
+      # mit allen Werken ausgeliefert wird
+      - name: Build image for test
+        uses: docker/build-push-action@v7
+        with:
+          platforms: linux/amd64
+          load: true
+          tags: edirom-data:ci-test
+          build-args: VERSION=${{ steps.version.outputs.value }}
+
+      - name: Test image
+        run: |
+          docker run -d --name edirom -p 8080:8080 edirom-data:ci-test
+          backend=http://localhost:8080/apps/Edirom-Online-Backend/data/xql
+          edition=xmldb%3Aexist%3A%2F%2F%2Fdb%2Fapps%2Fbeethoven-edirom-data%2Fedition.xml
+          for i in $(seq 1 60); do
+            if curl -sf "$backend/getWorks.xql?editionId=$edition" -o works.json \
+               && [ "$(jq length works.json)" -ge 3 ]; then
+              echo "Edition bereit:"; jq -r '.[] | "  \(.id): \(.title)"' works.json
+              curl -sf http://localhost:8080/apps/Edirom-Online-Frontend/index.html > /dev/null
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Edition wurde nicht rechtzeitig bereitgestellt"; docker logs edirom | tail -50; exit 1
+
+      - name: Log in to GitHub Container Registry
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: docker/login-action@v4
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push Docker image
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: docker/build-push-action@v7
+        with:
+          platforms: linux/amd64,linux/arm64
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          build-args: VERSION=${{ steps.version.outputs.value }}
